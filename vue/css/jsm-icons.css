@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'jsm-icons';
-  src: url('../font/jsm-icons.eot?80000899');
-  src: url('../font/jsm-icons.eot?80000899#iefix') format('embedded-opentype'),
-       url('../font/jsm-icons.woff2?80000899') format('woff2'),
-       url('../font/jsm-icons.woff?80000899') format('woff'),
-       url('../font/jsm-icons.ttf?80000899') format('truetype'),
-       url('../font/jsm-icons.svg?80000899#jsm-icons') format('svg');
+  src: url('../font/jsm-icons.eot?57961755');
+  src: url('../font/jsm-icons.eot?57961755#iefix') format('embedded-opentype'),
+       url('../font/jsm-icons.woff2?57961755') format('woff2'),
+       url('../font/jsm-icons.woff?57961755') format('woff'),
+       url('../font/jsm-icons.ttf?57961755') format('truetype'),
+       url('../font/jsm-icons.svg?57961755#jsm-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'jsm-icons';
-    src: url('../font/jsm-icons.svg?80000899#jsm-icons') format('svg');
+    src: url('../font/jsm-icons.svg?57961755#jsm-icons') format('svg');
   }
 }
 */
@@ -55,7 +55,6 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.jsm-icon-arrow-right:before { content: '\e705'; } /* '' */
 .jsm-icon-alert:before { content: '\e800'; } /* '' */
 .jsm-icon-arrow-left:before { content: '\e801'; } /* '' */
 .jsm-icon-plus:before { content: '\e802'; } /* '' */
@@ -76,6 +75,13 @@
 .jsm-icon-thin-phone:before { content: '\e811'; } /* '' */
 .jsm-icon-thin-smartphone:before { content: '\e812'; } /* '' */
 .jsm-icon-thin-wifi:before { content: '\e813'; } /* '' */
+.jsm-icon-fork-lift:before { content: '\e814'; } /* '' */
+.jsm-icon-invoice:before { content: '\e815'; } /* '' */
+.jsm-icon-invoice-warning:before { content: '\e816'; } /* '' */
+.jsm-icon-invoice-danger:before { content: '\e817'; } /* '' */
+.jsm-icon-transfer:before { content: '\e818'; } /* '' */
+.jsm-icon-truck-speed:before { content: '\e819'; } /* '' */
+.jsm-icon-arrow-right:before { content: '\e81a'; } /* '' */
 .jsm-icon-print:before { content: '\e831'; } /* '' */
 .jsm-icon-up-dir:before { content: '\e832'; } /* '' */
 .jsm-icon-home:before { content: '\e833'; } /* '' */

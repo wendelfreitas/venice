@@ -1,5 +1,4 @@
 
-.jsm-icon-arrow-right:before { content: '\e705'; } /* '' */
 .jsm-icon-alert:before { content: '\e800'; } /* '' */
 .jsm-icon-arrow-left:before { content: '\e801'; } /* '' */
 .jsm-icon-plus:before { content: '\e802'; } /* '' */
@@ -20,6 +19,13 @@
 .jsm-icon-thin-phone:before { content: '\e811'; } /* '' */
 .jsm-icon-thin-smartphone:before { content: '\e812'; } /* '' */
 .jsm-icon-thin-wifi:before { content: '\e813'; } /* '' */
+.jsm-icon-fork-lift:before { content: '\e814'; } /* '' */
+.jsm-icon-invoice:before { content: '\e815'; } /* '' */
+.jsm-icon-invoice-warning:before { content: '\e816'; } /* '' */
+.jsm-icon-invoice-danger:before { content: '\e817'; } /* '' */
+.jsm-icon-transfer:before { content: '\e818'; } /* '' */
+.jsm-icon-truck-speed:before { content: '\e819'; } /* '' */
+.jsm-icon-arrow-right:before { content: '\e81a'; } /* '' */
 .jsm-icon-print:before { content: '\e831'; } /* '' */
 .jsm-icon-up-dir:before { content: '\e832'; } /* '' */
 .jsm-icon-home:before { content: '\e833'; } /* '' */
