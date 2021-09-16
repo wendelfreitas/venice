@@ -26,6 +26,16 @@
 .jsm-icon-transfer:before { content: '\e818'; } /* '' */
 .jsm-icon-truck-speed:before { content: '\e819'; } /* '' */
 .jsm-icon-arrow-right:before { content: '\e81a'; } /* '' */
+.jsm-icon-m-heart-outline:before { content: '\e81b'; } /* '' */
+.jsm-icon-referral:before { content: '\e81c'; } /* '' */
+.jsm-icon-receipt-outline:before { content: '\e81d'; } /* '' */
+.jsm-icon-referral-outline:before { content: '\e81e'; } /* '' */
+.jsm-icon-receipt:before { content: '\e81f'; } /* '' */
+.jsm-icon-tag-outline:before { content: '\e820'; } /* '' */
+.jsm-icon-tag:before { content: '\e821'; } /* '' */
+.jsm-icon-house-outline:before { content: '\e822'; } /* '' */
+.jsm-icon-house:before { content: '\e823'; } /* '' */
+.jsm-icon-m-heart:before { content: '\e824'; } /* '' */
 .jsm-icon-print:before { content: '\e831'; } /* '' */
 .jsm-icon-up-dir:before { content: '\e832'; } /* '' */
 .jsm-icon-home:before { content: '\e833'; } /* '' */
